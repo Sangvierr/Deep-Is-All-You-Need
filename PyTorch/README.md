@@ -36,3 +36,9 @@
 - 사용한 데이터셋 : IDA 2016 Challenge에서 진행한 APS Failure and Operational Data for Scania Trucks 데이터
 - 개요 : PyTorch를 사용하여 정형데이터 처리 성능이 좋은 딥러닝 모델 설계
 - 참고 : 2023-여름학기 P-SAT 방학 세미나
+
+### Theme 6. MNIST Classification (with related techniques)
+- 일시 : 2024.04.05
+- 사용한 데이터셋 : torchvision MNIST 데이터셋
+- 개요 : MNIST 분류를 위해 직접 Trainer를 정의하고, 다양한 테크닉을 활용해서 성능 향상 시도
+- 참고 : -
