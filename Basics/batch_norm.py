@@ -90,7 +90,7 @@ class simpleNeuralNetwork:
                 loss = self.compute_loss(y, y_pred)
                 loss_list.append(np.mean(loss))
                 
-                # 은닉층의 출력값의 평균과 분산 저장
+                # 은닉층의 출력값의 평균 저장
                 hidden_means.append(self.h_mean)
                 
                 #print(f'Epoch {epoch+1}/{num_epochs} - Loss: {np.mean(loss)}')
