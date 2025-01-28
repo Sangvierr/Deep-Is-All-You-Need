@@ -1,2 +1,5 @@
 # macOS 시스템 파일
 .DS_Store
+
+# 데이터 파일
+*.csv
