@@ -42,3 +42,9 @@
 - 사용한 데이터셋 : torchvision MNIST 데이터셋
 - 개요 : MNIST 분류를 위해 직접 Trainer를 정의하고, 다양한 테크닉을 활용해서 성능 향상 시도
 - 참고 : -
+
+### Theme 7. Waste Image Classification
+- 일시 : 2024.12.18
+- 사용한 데이터셋 : Kaggle ([Recyclable and Household Waste Classification](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification))
+- 개요 : 분리수거 데이터셋을 활용하여 EfficientNet-V2, PyramidNet 등의 Vision 모델의 성능 개선 시도
+- 참고 : -
